@@ -1,0 +1,14 @@
+C:\.NET FOLDER\Projects\test-lab\test-lab\bin\Debug\net8.0\test-lab.exe
+C:\.NET FOLDER\Projects\test-lab\test-lab\bin\Debug\net8.0\test-lab.deps.json
+C:\.NET FOLDER\Projects\test-lab\test-lab\bin\Debug\net8.0\test-lab.runtimeconfig.json
+C:\.NET FOLDER\Projects\test-lab\test-lab\bin\Debug\net8.0\test-lab.dll
+C:\.NET FOLDER\Projects\test-lab\test-lab\bin\Debug\net8.0\test-lab.pdb
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\test-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\test-lab.AssemblyInfoInputs.cache
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\test-lab.AssemblyInfo.cs
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\test-lab.csproj.CoreCompileInputs.cache
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\test-lab.dll
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\refint\test-lab.dll
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\test-lab.pdb
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\test-lab.genruntimeconfig.cache
+C:\.NET FOLDER\Projects\test-lab\test-lab\obj\Debug\net8.0\ref\test-lab.dll
