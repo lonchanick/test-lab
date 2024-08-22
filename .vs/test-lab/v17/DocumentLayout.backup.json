@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\.NET FOLDER\\Projects\\test-lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB793BE7-2177-4081-B73E-CBDD7658906E}|test-lab\\test-lab.csproj|c:\\.net folder\\projects\\test-lab\\test-lab\\workingwithstreams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB793BE7-2177-4081-B73E-CBDD7658906E}|test-lab\\test-lab.csproj|solutionrelative:test-lab\\workingwithstreams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB793BE7-2177-4081-B73E-CBDD7658906E}|test-lab\\test-lab.csproj|c:\\.net folder\\projects\\test-lab\\test-lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB793BE7-2177-4081-B73E-CBDD7658906E}|test-lab\\test-lab.csproj|solutionrelative:test-lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB793BE7-2177-4081-B73E-CBDD7658906E}|test-lab\\test-lab.csproj|c:\\.net folder\\projects\\test-lab\\test-lab\\workingwithstreams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB793BE7-2177-4081-B73E-CBDD7658906E}|test-lab\\test-lab.csproj|solutionrelative:test-lab\\workingwithstreams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WorkingWithStreams.cs",
               "DocumentMoniker": "C:\\.NET FOLDER\\Projects\\test-lab\\test-lab\\WorkingWithStreams.cs",
               "RelativeDocumentMoniker": "test-lab\\WorkingWithStreams.cs",
-              "ToolTip": "C:\\.NET FOLDER\\Projects\\test-lab\\test-lab\\WorkingWithStreams.cs*",
-              "RelativeToolTip": "test-lab\\WorkingWithStreams.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\.NET FOLDER\\Projects\\test-lab\\test-lab\\WorkingWithStreams.cs",
+              "RelativeToolTip": "test-lab\\WorkingWithStreams.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T19:45:43.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\.NET FOLDER\\Projects\\test-lab\\test-lab\\Program.cs",
               "RelativeDocumentMoniker": "test-lab\\Program.cs",
               "ToolTip": "C:\\.NET FOLDER\\Projects\\test-lab\\test-lab\\Program.cs",
               "RelativeToolTip": "test-lab\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T18:56:16.217Z",
               "EditorCaption": ""
